@@ -1,0 +1,5 @@
+User-agent : *
+Allow : /index.html
+
+Sitemap: <lien url="http://www.epscapoeira-france.fr/sitemap.xml">http://www.epscapoeira-france.fr/sitemap.xml</lien> 
+
